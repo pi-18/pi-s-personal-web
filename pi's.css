@@ -1,0 +1,87 @@
+body {
+    position: relative;
+}
+
+
+.box-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    row-gap: 40px;
+    column-gap: 40px;
+    
+    
+}
+
+.box-1 {
+    width: 250px;
+    height: 250px;
+    background-color: pink;
+    border-radius: 20%;
+    margin: 20px;
+    overflow: hidden;
+    padding: 20px;
+    box-sizing: border-box;
+    
+}
+
+.box-2 {
+    width: 250px;
+    height: 250px;
+    background-color: red;
+    border-radius: 20%;
+    margin: 20px;
+    overflow: hidden;
+    box-sizing: border-box;
+    padding: 20px;
+   
+}
+
+.box-3 {
+    width: 250px;
+    height: 250px;
+    background-image: url();
+    background-color: red;
+    border-radius: 20%;
+    overflow: hidden;
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 20px;
+}
+
+.box-4 {
+    width: 250px;
+    height: 250px;
+    background-image: url();
+    background-color: pink;
+    border-radius: 20%;
+    overflow: hidden;
+    box-sizing: border-box;
+    
+    margin: 20px;
+}
+
+.box-5 {
+    width: 250px;
+    height: 250px;
+    background-image: url();
+    background-color: pink;
+    border-radius: 20%;
+    overflow: hidden;
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 20px;
+}
+
+.box-6 {
+    width: 250px;
+    height: 250px;
+    background-image: url();
+    background-color: red;
+    border-radius: 20%;
+    overflow: hidden;
+    box-sizing: border-box;
+    margin: 20px;
+}
+
+
+
