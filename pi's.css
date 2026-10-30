@@ -39,7 +39,6 @@ body {
 .box-3 {
     width: 250px;
     height: 250px;
-    background-image: url();
     background-color: red;
     border-radius: 20%;
     overflow: hidden;
@@ -51,7 +50,6 @@ body {
 .box-4 {
     width: 250px;
     height: 250px;
-    background-image: url();
     background-color: pink;
     border-radius: 20%;
     overflow: hidden;
@@ -63,7 +61,6 @@ body {
 .box-5 {
     width: 250px;
     height: 250px;
-    background-image: url();
     background-color: pink;
     border-radius: 20%;
     overflow: hidden;
@@ -75,7 +72,6 @@ body {
 .box-6 {
     width: 250px;
     height: 250px;
-    background-image: url();
     background-color: red;
     border-radius: 20%;
     overflow: hidden;
